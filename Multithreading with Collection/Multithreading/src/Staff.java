@@ -17,6 +17,7 @@ public class Staff implements Runnable{
 		String name2 = input.nextLine();
 		list.add(name2);
 		System.out.println("The array list" + list);
+		//System.out.println("The array list" + list);
 		try {
 			Thread.sleep(1000);
 		} catch (InterruptedException e) {

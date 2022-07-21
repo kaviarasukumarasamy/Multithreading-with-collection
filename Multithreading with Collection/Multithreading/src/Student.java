@@ -6,6 +6,7 @@ public class Student extends Thread {
 	List<String> list = new ArrayList();
 	Scanner input = new Scanner(System.in);
 	Scanner input1 = new Scanner(System.in);
+	//Scanner input1 = new Scanner(System.in);
 
 	public void start() {
 		System.out.println("Thread Started");
