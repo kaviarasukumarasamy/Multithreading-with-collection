@@ -13,7 +13,7 @@ public class Main {
 		student.change();
 		student.remove();
 		student.iterate();
-		student.iterate();
+		
 		t1.start();
 		//t1.start();
 
